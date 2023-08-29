@@ -4,5 +4,3 @@ title: Publications
 permalink: /publications/
 ---
 This is pubs.
-
-{% bibliography %}
