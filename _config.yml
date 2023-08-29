@@ -22,8 +22,8 @@ title: Gabrielle R. Leung
 email: gabrielle.leung@colostate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Adapted by Gabrielle Leung from Minima in 2023.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "http://grleung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  grleung
 
 # Build settings
