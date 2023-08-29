@@ -31,7 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-skin: solarized
+minima:
+  skin: solarized
 
 # Exclude from processing.
 # The following items will not be processed, by default.
