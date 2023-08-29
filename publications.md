@@ -3,4 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-List of Publications.
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
