@@ -21,7 +21,7 @@
 title: Gabrielle R. Leung
 email: gabrielle.leung@colostate.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  
+Adapted by Gabrielle Leung from <a href="https://github.com/jekyll/minima">Minima</a> in 2023.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  grleung
@@ -30,10 +30,9 @@ github_username:  grleung
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll/scholar
 
 minima:
-  skin: classic
+  skin: auto
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,42 +58,4 @@ header_pages:
  - index.md
  - cv.md
  - publications.md
-
-scholar:
-
-  last_name: [Leung]
-  first_name: [Gabrielle, G.R., GR]
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-  group_by: year
-  group_order: descending
-
-badges: # Display different badges for your publications
-  altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
-
-# Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
-
-# Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3  # leave blank to always show all authors
-more_authors_animation_delay: 1  # more authors are revealed on click using animation; smaller delay means faster animation
 
