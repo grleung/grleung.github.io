@@ -4,27 +4,21 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col">
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
+      <span class="social-links">
+        gabrielle.leung@colostate.edu
+        <br/>
+        <a href="https://github.com/grleung">Github</a> •
+        <a href="https://orcid.org/0000-0003-2216-6207/">OrcID</a> •
+        <a href="https://scholar.google.com/citations?user=GfYP6bAAAAAJ&hl=en">Google Scholar</a>
+        
+      </span>
+      
+      <span class="footer-col">
+        {{ site.description }}
+      </span>
+    
+      
     </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
   </div>
 
 </footer>

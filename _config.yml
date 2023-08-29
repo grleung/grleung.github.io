@@ -20,21 +20,22 @@
 
 title: Gabrielle R. Leung
 email: gabrielle.leung@colostate.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Adapted by Gabrielle Leung from Minima in 2023.
+description: Gabrielle (Bee) Leung<br/>Aerosols, Clouds, and Land Surface Interactions
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://grleung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  grleung
+orcid: 0000-0003-2216-6207
 
 # Build settings
 theme: minima
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
-#  - jekyll-include-cache 
 
 minima:
   skin: auto
+  date_format: "%Y %b %-d"
+
+author: Gabrielle R. Leung
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -58,6 +59,7 @@ minima:
 
 header_pages:
  - index.md
+ - research.md
  - cv.md
  - publications.md
 

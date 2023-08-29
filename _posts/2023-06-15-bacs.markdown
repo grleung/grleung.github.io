@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Today is the first day of the NSF-sponsored BioAerosols and Convective Storms Phase II (BACS-II). Our team will spend five weeks sampling cold pools using radiosondes and drones to understand how bioaerosols (like pollen) are lofted and distributed by storms. This summer, I'm the operations manager and will coordinate the day-to-day instrumentation and sampling."
+date:   2023-05-22
+categories: jekyll update
+---
