@@ -3,4 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-This is pubs
+This is pubs.
+
+{% bibliography %}
