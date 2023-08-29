@@ -3,4 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-This is pubs.
+
+<div markdown="0">
+{% include bibere/byyear.html mainAuthor="leung"%}
+</div>

@@ -1,0 +1,225 @@
+aci:acp23:
+  title: >
+    Aerosol-cloud impacts on aerosol detrainment and rainout in shallow maritime tropical clouds
+  authors:
+    - leung
+    - saleeby
+    - sokolowsky 
+    - freeman 
+    - vdH
+  venue: Atmos. Chem. Phys.
+  year: 2023
+  type: Journal
+  doi: 10.5194/acp-23-5263-2023 
+  links: 
+      - name: Link
+        link: https://doi.org/10.5194/acp-23-5263-2023 
+
+aerobreeze:natcomm23:
+  title: >
+    Aerosol breezes drive cloud and precipitation increases
+  authors:
+    - leung
+    - vdH
+  venue: Nat. Comm.
+  year: 2023
+  type: Journal
+  doi: 10.1038/s41467-023-37722-3
+  links: 
+      - name: Link
+        link: https://doi.org/10.1038/s41467-023-37722-3
+
+camp2ex:bams23:
+  title: >
+    The Coupling Between Tropical Meteorology, Aerosol Lifecycle, Convection, and Radiation during the Cloud, Aerosol and Monsoon Processes Philippines Experiment (CAMP2Ex)
+  authors:
+    - reid
+    - H.B. Maring
+    - G.T. Narisma
+    - vdH
+    - L. Di Girolamo
+    - R. Ferrare
+    - P. Lawson
+    - G.G. Mace
+    - S. Tanelli
+    - ziemba
+    - holz
+    - T.J. Lang
+    - K.S. Schmidt
+    - G. Smith
+    - sorooshian
+    - E.J. Thompson
+    - K.L. Thornhill
+    - C. Trepte
+    - J. Wang
+    - S. Woods
+    - S. Yoon
+    - M. Alexandrov
+    - S. Alvarez
+    - C.G. Amiot
+    - J.R. Bennett
+    - M. Brooks
+    - S.P. Burton
+    - E. Cayanan
+    - H. Chen
+    - A. Collow
+    - crosbie
+    - A. DaSilva
+    - J. P. DiGangi
+    - D. D. Flagg
+    - freeman
+    - D. Fu
+    - E. Fukada
+    - hilario
+    - Y. Hong
+    - S.M. Hristova-Veleva
+    - R. Kuehn
+    - R.S. Kowch
+    - leung
+    - J. Loveridge
+    - K. Meyer
+    - R.M. Miller
+    - M.J. Montes
+    - J.N. Moum
+    - A. Nenes
+    - S.W. Nesbitt
+    - M. Norgren
+    - E.P. Nowottnick
+    - R.M. Rauber
+    - E.A. Reid
+    - S. Rutledge
+    - J.S. Schlosser
+    - T.T. Sekiyama
+    - M.A. Shook
+    - sokolowsky
+    - S.A. Stamnes
+    - T.Y. Tanaka
+    - A. Wasilewski
+    - P. Xian
+    - Q. Xiao
+    - Z.-C. Xu
+    - J. Zavaleta
+  venue: Bull. Amer. Meteor. Soc.
+  year: 2023
+  type: Journal
+  doi: 10.1175/BAMS-D-21-0285.1
+  links: 
+      - name: Link
+        link: https://doi.org/10.1175/BAMS-D-21-0285.1
+
+congestus:jas22:
+  title: >
+    Controls on the development and circulation of terminal and transient congestus clouds and implications for midlevel aerosol transport
+  authors:
+    - leung
+    - vdH
+  venue: J. Atmos. Sci.
+  year: 2022
+  type: Journal
+  doi: 10.1175/JAS-D-21-0314.1
+  links: 
+      - name: Link
+        link: https://doi.org/10.1175/JAS-D-21-0314.1
+
+
+closure:acp22:
+  title: >
+    Measurement report: Closure analysis of aerosol–cloud composition in tropical maritime warm convection
+  authors:
+    - crosbie
+    - ziemba 
+    - M.A. Shook
+    - C.E. Robinson
+    - E.L. Winstead
+    - K.L. Thornhill
+    - braun 
+    - macdonald
+    - stahl
+    - sorooshian
+    - vdH
+    - J.P. DiGangi
+    - G.S. Diskin
+    - S. Woods
+    - banaga
+    - M.D. Brown
+    - F. Gallo
+    - hilario
+    - C.E. Jordan
+    - leung
+    - R.H. Moore
+    - K.J. Sanchez
+    - T.J. Shingler
+    - E.B. Wiggins
+  venue: Atmos. Chem. Phys.
+  year: 2022
+  type: Journal
+  doi: 10.5194/acp-22-13269-2022
+  links: 
+      - name: Link
+        link: https://doi.org/10.5194/acp-22-13269-2022
+
+toc:acp22:
+  title: >
+    Total organic carbon and the contribution from speciated organics in cloud water: airborne data analysis from the CAMP2Ex field campaign
+  authors:
+    - stahl 
+    - crosbie
+    - banaga
+    - betito 
+    - braun 
+    - Z.M. Cainglet
+    - cambaliza
+    - cruz
+    - J.M. Dado
+    - hilario
+    - leung
+    - macdonald
+    - A.M. Magnaye
+    - reid
+    - C.E. Robinson
+    - M.A. Shook
+    - simpas
+    - visaga
+    - E.L. Winstead
+    - ziemba 
+    - sorooshian
+  venue: Atmos. Chem. Phys.
+  year: 2022
+  type: Journal
+  doi: 10.5194/acp-21-14109-2021
+  links: 
+      - name: Link
+        link: https://doi.org/10.5194/acp-21-14109-2021
+
+firework:acp21:
+  title: >
+    Measurement report: Firework impacts on air quality in Metro Manila, Philippines, during the 2019 New Year revelry
+  authors:
+    - G.R. Lorenzo
+    - banaga
+    - cambaliza
+    - cruz
+    - M. AzadiAghdam
+    - A. Arellano
+    - betito 
+    - braun 
+    - A.F. Corral 
+    - H. Dadashazar 
+    - E.-L. Edwards 
+    - E. Eloranta
+    - holz
+    - leung 
+    - L. Ma
+    - macdonald
+    - reid
+    - simpas
+    - stahl 
+    - visaga 
+    - sorooshian
+  venue: Atmos. Chem. Phys.
+  year: 2021
+  type: Journal
+  doi: 10.5194/acp-21-6155-2021
+  links: 
+      - name: Link
+        link: https://doi.org/10.5194/acp-21-6155-2021

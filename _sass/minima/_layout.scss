@@ -2,17 +2,17 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $border-color-03;
+  border-top: 10px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size * 1.8;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
-  @include relative-font-size(2.5);
+  @include relative-font-size(2.75);
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -252,16 +252,17 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  color: $brand-color;
 }
 
 .post-title,
 .post-content h1 {
-  @include relative-font-size(2.625);
+  @include relative-font-size(2);
   letter-spacing: -1px;
   line-height: 1.15;
 
   @media screen and (min-width: $on-large) {
-    @include relative-font-size(2.625);
+    @include relative-font-size(2);
   }
 }
 

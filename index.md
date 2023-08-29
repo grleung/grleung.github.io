@@ -8,7 +8,6 @@ list_title: 'news'
 ---
 
 
-
 <img align='right' width=250 src="/assets/photos/prof_pic.jpg">
 I’m currently a Ph.D. candidate at the <a href="https://www.atmos.colostate.edu/">Department of Atmospheric Science, Colorado State University</a>.
 
