@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: solarized
+  skin: auto
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -55,6 +55,6 @@ minima:
 #   - vendor/ruby/
 
 header_pages:
- - about.markdown
- - cv.markdown
- - publications.markdown
+ - index.md
+ - cv.md
+ - publications.md
