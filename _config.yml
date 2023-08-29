@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: auto
+  skin: light
 
 # Exclude from processing.
 # The following items will not be processed, by default.
