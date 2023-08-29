@@ -33,11 +33,7 @@ plugins:
   - jekyll/scholar
 
 minima:
-<<<<<<< HEAD
   skin: classic
-=======
-  skin: auto
->>>>>>> parent of 5828db3 (color scheme)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
