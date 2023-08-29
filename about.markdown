@@ -1,18 +1,15 @@
 ---
-layout: page
-title: About
-permalink: /about/
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+list_title: 'news'
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You can also call me Bee!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I’m currently a Ph.D. candidate at the Department of Atmospheric Science, Colorado State University.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My work explores interactions between aerosols, the land surface, and clouds. Anthropogenic activities perturb the aerosol environment through changes to emission sources. At the same time, humans drive changes in the land surface (think: deforestation, urbanization). I examine how those combined perturbations to the earth system drive changes in cloud and precipitation properties. The interplay of microphysics and dynamics involved makes it challenging to untangle the processes involved in these aerosol-land-cloud interactions. However, doing so is essential to understanding how we are changing the weather and climate on the planet we live on.
 
-
-[jekyll-organization]: https://github.com/jekyll
+In my research, I use a combination of satellite data, field observations, and cloud-resolving models.
