@@ -29,9 +29,9 @@ Publications (grouped by year):
 <hr>
 </div>
 <!-- For each year, sorted by type (alphabetical), then sort_weight -->
+<ol reversed class="papers">
 {% for year in years %}
     <span id="{{ year.name }}" class="yearGroup">{{ year.name }}</span>
-    <ul class="papers">
     {% assign types = year.items | group_by_exp: "p", "p[1].type" | sort: "name" %}
     {% for type in types %}
         {% assign weights = type.items | group_by_exp: "p", "p[1].sort_weight" | sort: "name" | reverse %}
@@ -42,5 +42,7 @@ Publications (grouped by year):
             {% endfor %}
         {% endfor %}
     {% endfor %}
-    </ul>
+<br>
+<br>
 {% endfor %}
+</ol>
