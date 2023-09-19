@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "I was awarded the <a href=https://www.atmos.colostate.edu/2022/12/gabrielle-leung-and-wei-ting-hsiao-awarded-dietrich-and-shrake-culler-scholarships/>David L. Dietrich Honorary Scholarship</a>. This scholarship is awarded annually to a CSU Atmospheric Science student who demonstrates outstanding research in the study of aerosols and air quality."
+date:   2022-12-07
+categories: jekyll update
+---
