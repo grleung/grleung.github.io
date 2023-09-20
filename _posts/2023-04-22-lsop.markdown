@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The <a href=https://www.lsop.colostate.edu/>CSU Little Shop of Physics</a> was today! I and many other volunteers hosted science demonstrations (including showing off the drones we use for field measurements) for K-12 students."
+title:  "The <a href='https://www.lsop.colostate.edu/'>CSU Little Shop of Physics</a> was today! I and many other volunteers hosted science demonstrations (including showing off the drones we use for field measurements) for K-12 students."
 date:   2023-04-22
 categories: jekyll update
 ---
