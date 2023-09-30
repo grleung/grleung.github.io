@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Mesoscale Heterogeneity
-description: In the real world, aerosol emissions can be localized on mesoscales (i.e., on the order of 100km). I study how this spatial variability can drive mesoscale flows, including one we've termed the <b>"aerosol breeze"</b>, using idealized models and satellite case studies. 
+description: In the real world, aerosol emissions can be localized on mesoscales (i.e., on the order of 100km). The differing aerosol radiative effects between regions of high and low aerosol loading drives changes to the overall circulation. We've used idealized models and satellite case studies to study this phenomenon, which we call the <b>"aerosol breeze"</b>. Read more about aerosol breezes <a href='https://doi.org/10.1038/s41467-023-37722-3'>in this paper</a>, where we also discuss how important it is to represent mesoscale aerosol gradients in GCMs to accurately assess aerosol-cloud interactions.
 importance: 2
-img: assets/img/deforestation.png
-short_img: assets/img/deforestation.png
+img: assets/img/aero_breeze.png
+short_img: assets/img/aero_breeze.png
 ---

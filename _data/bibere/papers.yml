@@ -1,3 +1,32 @@
+tobac:gmd2023:
+  title: >
+    <em>tobac</em> v1.5: Introducing Fast 3D Tracking, Splits and Mergers, and Other Enhancements for Identifying and Analysing Meteorological Phenomena
+  authors:
+    - sokolowsky 
+    - freeman 
+    - W.K. Jones
+    - J. Kukulies
+    - F. Senf
+    - P. Marinescu
+    - M. Heikenfeld
+    - K.N. Brunner
+    - E.C. Bruning
+    - S.M. Collis
+    - R.C. Jackson
+    - leung
+    - N. Pfieifer
+    - B.A. Raut
+    - saleeby
+    - P. Stier
+    - vdH
+  venue: Geosci. Model Dev.
+  year: 2023
+  type: Journal
+  doi: 10.5194/egusphere-2023-1722
+  links: 
+      - name: Link
+        link: https://doi.org/10.5194/egusphere-2023-1722
+        
 aci:acp23:
   title: >
     Aerosol-cloud impacts on aerosol detrainment and rainout in shallow maritime tropical clouds
