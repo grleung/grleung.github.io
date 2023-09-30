@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Heterogeneity
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-importance: 3
+title: Mesoscale Heterogeneity
+description: In the real world, aerosol emissions can be localized on mesoscales (i.e., on the order of 100km). I study how this spatial variability can drive mesoscale flows, including one we've termed the <b>"aerosol breeze"</b>, using idealized models and satellite case studies. 
+importance: 2
 img: assets/img/deforestation.png
 short_img: assets/img/deforestation.png
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Aerosols, Land Cover, and Clouds
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-importance: 1
+description: Humans are driving changes in the aerosol environment <em>and</em> in land cover. My dissertation is funded by a NASA FINESST award that looks at land-aerosol-cloud interactions. I'm currently working on a satellite-based study of how deforestation in Southeast Asia drives changes in clouds, and how those changes are modulated by moisture and aerosol loading.
+importance: 3
 img: assets/img/deforestation.png
 short_img: assets/img/deforestation.png
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Convective Transport
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-importance: 2
+title: Aerosol-Cloud Interactions
+description: Not all clouds respond to changes in aerosol loadings in the same way. I study <em>which</em> clouds are most susceptible to aerosol-induced changes, by using new <a href='https://github.com/tobac-project/tobac'>cloud identification and tracking tools</a> to separate different cloud modes.  
+importance: 1
 img: assets/img/aero_detrain.jpg
 short_img: assets/img/deforestation.png
 ---
