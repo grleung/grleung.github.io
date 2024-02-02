@@ -8,6 +8,11 @@ vdH:
     first: "S.C."
     last: "van den Heever"
 
+grant:
+  name:
+    first: "L.D."
+    last: "Grant"
+
 saleeby:
   name:
     first: "S.M."
