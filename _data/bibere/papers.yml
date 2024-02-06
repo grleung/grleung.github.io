@@ -10,10 +10,10 @@ satlcc:grl2024:
   type: Journal
   doi: 10.22541/essoar.170224476.62466891/v1
   links: 
-      - name: Link (preprint)
+      - name: Link
         link: https://doi.org/10.22541/essoar.170224476.62466891/v1
   
-  tobac:gmd2023:
+tobac:gmd2023:
   title: >
     <em>tobac</em> v1.5: Introducing Fast 3D Tracking, Splits and Mergers, and Other Enhancements for Identifying and Analysing Meteorological Phenomena
   authors:
