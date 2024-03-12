@@ -13,7 +13,7 @@ satlcc:grl2024:
       - name: Link
         link: https://doi.org/10.22541/essoar.170224476.62466891/v1
   
-tobac:gmd2023:
+tobac:gmd2024:
   title: >
     <em>tobac</em> v1.5: Introducing Fast 3D Tracking, Splits and Mergers, and Other Enhancements for Identifying and Analysing Meteorological Phenomena
   authors:
@@ -35,13 +35,41 @@ tobac:gmd2023:
     - P. Stier
     - vdH
   venue: Geosci. Model Dev.
-  year: 2023
+  year: 2024
   type: Journal
   doi: 10.5194/egusphere-2023-1722
   links: 
       - name: Link
         link: https://doi.org/10.5194/egusphere-2023-1722
         
+
+jeep:aaqr23:
+  title: >
+    Spatiotemporal Assessment of PM2.5 Exposure of a High-risk Occupational Group in a Southeast Asian Megacity
+  authors:
+    - J.T. Collado
+    - J.G. Abalos
+    - I. de los Reyes
+    - M.T. Cruz
+    - leung
+    - K. Abenojar
+    - C.R. Manalo
+    - B. Go
+    - C.L. Chan
+    - C.K.G. Gonzales
+    - J.B.B. Simpas
+    - E.E. Porio
+    - J.Q. Wong
+    - S.C.C. Lung
+    - M.O.L. Cambaliza
+  venue: Aerosol Air Qual. Res.
+  year: 2023
+  type: Journal
+  doi: 10.4209/aaqr.220134
+  links:
+      - name: Link
+      - link: https://doi.org/10.4209/aaqr.220134
+
 aci:acp23:
   title: >
     Aerosol-cloud impacts on aerosol detrainment and rainout in shallow maritime tropical clouds
