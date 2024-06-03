@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "The first <a href='https://doi.org/10.1029/2023GL107678'>paper</a> from my FINESST grant is now out in GRL! We use two decades of satellite data to show that deforestation in Southeast Asia has driven a robust increase in shallow clouds on annual timescales. We also show, for the first time, that some regions are especially vulnerable to deforestation-driven changes in clouds depending on atmospheric moisture and aerosol loading."
+date:   2024-5-28
+categories: jekyll update
+---
