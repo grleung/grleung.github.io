@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "It's been a busy conference season! This week, I'm in New Orleans for AMS. I'm presenting my work on resolving convective mass flux at sub-kilometer grid spacings, done as part of the NASA INCUS mission." 
+date:   2025-01-13
+categories: jekyll update
+---
