@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "I just accepted a faculty position at the <a href='https://www.aos.wisc.edu/'>University of Wisconsin–Madison Department of Atmospheric and Oceanic Sciences</a>. I'm moving to Madison in August 2025 to be an <a href='https://facstaff.provost.wisc.edu/faculty-hiring-and-retention-resources/#anna-julia-cooper-postdoctoral-fellowship'>Anna Julia Cooper postdoctoral fellow</a> while I set up my research group before starting my tenure-track Assistant Professor position in Fall 2026." 
+date:   2025-04-21
+categories: jekyll update
+---

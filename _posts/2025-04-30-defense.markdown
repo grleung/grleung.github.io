@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I successfully defended my PhD dissertation, entitled 'Aerosol and Land Surface Impacts on Tropical Convective Processes'." 
+title:  "Today, I successfully defended my PhD dissertation, entitled 'Aerosol and Land Surface Impacts on Tropical Convective Processes'." 
 date:   2025-04-30
 categories: jekyll update
 ---
