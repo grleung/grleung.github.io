@@ -1,4 +1,43 @@
-satlcc:grl2024:
+cpdef:grl2025:
+  title: >
+    Cold Pools Reduce the Impacts of Deforestation on Convective Initiation
+  authors:
+    - falk
+    - leung
+    - grant
+    - vdH
+  venue: In review.
+  year: 2025
+  type: Journal
+  
+  cp:jas2025:
+  title: >
+    Do Cold Pools Propagate According to Theory?
+  authors:
+    - falk
+    - grant
+    - vdH
+    - B.D. Ascher
+    - T.W. Barbero
+    - C.M. Davis
+    - J.A. Escobedo
+    - freeman
+    - B.K. Heffernan
+    - leung
+    - A.C. Mazurek
+    - C.A. Neumaier
+    - E.A. Sherman
+    - G.A. Sokolowsky
+    - D. Veloso-Aguila
+    - P.J. Demott
+    - S.M. Kreidenweis
+    - R.J. Perkins
+    - E.A. Stone
+  venue: J. Atmos. Sci.
+  year: 2025
+  type: Journal
+  
+  satlcc:grl2024:
   title: >
     Deforestation-driven increases in shallow clouds are greatest in drier, low-aerosol regions of Southeast Asia
   authors:
