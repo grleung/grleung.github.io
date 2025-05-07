@@ -67,8 +67,10 @@ cp:jas2025:
     - R.J. Perkins
     - E.A. Stone
   venue: J. Atmos. Sci.
-  year: 2024
+  year: 2025
   type: Journal
+  links:
+      - name: In press
   
 satlcc:grl2024:
   title: >
