@@ -69,8 +69,10 @@ cp:jas2025:
   venue: J. Atmos. Sci.
   year: 2025
   type: Journal
+  doi: 10.1175/JAS-D-24-0136.1
   links:
-      - name: In press
+      - name: Link
+        link: https://doi.org/10.1175/JAS-D-24-0136.1
   
 satlcc:grl2024:
   title: >
