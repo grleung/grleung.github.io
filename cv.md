@@ -6,6 +6,6 @@ permalink: /cv/
 <!-- _layouts/cv.html -->
 <div class="post">
 
-<object data="../assets/docs/202408_Leung_CV.pdf#pagemode=none" width="750" height="1000" type='application/pdf'></object>
+<object data="../assets/docs/202508_Leung_CV.pdf#pagemode=none" width="750" height="1000" type='application/pdf'></object>
 
 </div>
