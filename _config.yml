@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Gabrielle R. Leung
-email: gabrielle.leung@colostate.edu
+email: bee.leung@wisc.edu
 description: Aerosols, Clouds, and Land Surface Interactions<br/>Gabrielle (Bee) Leung
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://grleung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
