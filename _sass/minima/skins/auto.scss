@@ -24,9 +24,9 @@ $lm-link-base-color:       #5C799A !default;
 $lm-link-visited-color:    #9278B6 !default;
 $lm-link-hover-color:      $lm-text-color !default;
 
-$lm-border-color-01:       $lm-brand-color-light !default;
-$lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
-$lm-border-color-03:       $lm-brand-color-dark !default;
+$lm-border-color-01:       $lm-brand-color !default;
+$lm-border-color-02:       $lm-brand-color !default;
+$lm-border-color-03:       $lm-brand-color !default;
 
 $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
 $lm-table-zebra-color:     lighten($lm-brand-color, 46%) !default;
@@ -109,7 +109,7 @@ $dm-brand-color:           #B7381F !default;
 $dm-brand-color-light:     lighten($dm-brand-color, 10%) !default;
 $dm-brand-color-dark:      darken($dm-brand-color, 25%) !default;
 
-$dm-site-title-color:      $dm-brand-color-light !default;
+$dm-site-title-color:      $dm-brand-color !default;
 
 $dm-text-color:            #E0E1E2 !default;
 $dm-background-color:      #292728 !default;
@@ -119,8 +119,8 @@ $dm-link-base-color:       #5C799A !default;
 $dm-link-visited-color:    #9278B6 !default;
 $dm-link-hover-color:      $dm-text-color !default;
 
-$dm-border-color-01:       $dm-brand-color-dark !default;
-$dm-border-color-02:       $dm-brand-color-light !default;
+$dm-border-color-01:       $dm-brand-color !default;
+$dm-border-color-02:       $dm-brand-color !default;
 $dm-border-color-03:       $dm-brand-color !default;
 
 $dm-table-text-color:      $dm-text-color !default;
