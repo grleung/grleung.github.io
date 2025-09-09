@@ -20,7 +20,7 @@
 
 title: Gabrielle R. Leung
 email: bee.leung@wisc.edu
-description: Land, Aerosol, and Cloud Interactions<br/>Gabrielle (Bee) Leung
+description: Land, Aerosol, and Cloud Interactions <br/>Gabrielle "Bee" Leung
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://grleung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  grleung
@@ -40,7 +40,7 @@ pagination:
   per_page: 5
   permalink: '/page/:num/'
 
-author: Gabrielle R. Leung
+author: Gabrielle "Bee" Leung
 
 collections:
   news:
@@ -85,7 +85,7 @@ latest_posts:
 header_pages:
  - index.md
  - research.md
- - cv.md
+ - people.md
+ - openings.md
  - publications.md
  - news.md
-
