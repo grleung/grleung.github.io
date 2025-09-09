@@ -41,9 +41,12 @@ pagination:
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
+
+    {%- assign recent_posts = posts | slice: 0, 20 -%}
+
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%Y %b %-d" -%}
-      {%- for post in posts -%}
+      {%- for post in recent_posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <span class="post-text">
@@ -55,6 +58,8 @@ pagination:
       </li>
       {%- endfor -%}
     </ul>
+
+    <a href="/news" class="see-more-link">More news →</a>
   {%- endif -%}
 
 </div>
