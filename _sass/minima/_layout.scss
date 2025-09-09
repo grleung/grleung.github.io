@@ -2,10 +2,10 @@
  * Site header
  */
 .site-header {
-  border-top: 10px solid $border-color-03;
-  border-bottom: 1px solid $border-color-01;
-  min-height: $spacing-unit * 1.865;
-  line-height: $base-line-height * $base-font-size * 1.8;
+  border-top: 30px solid $border-color-03;
+  border-bottom: 5px solid $border-color-01;
+  min-height: $spacing-unit * 3;
+  line-height: $base-line-height * $base-font-size * 2;
 
   // Positioning context for the mobile navigation icon
   position: relative;

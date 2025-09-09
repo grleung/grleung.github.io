@@ -64,7 +64,7 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 40%;
   vertical-align: middle;
 }
 
@@ -322,6 +322,92 @@ table {
   .card {
     img {
       width: 100%;
+    }
+  }
+
+  .card-item {
+    width: 100%;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+
+  .grid-sizer,
+  .grid-item {
+    width: 250px;
+    margin-bottom: 10px;
+  }
+
+  h2.category {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
+}
+
+.grid-proj-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.featured-posts {
+  a {
+    color: var(--global-text-color-light);
+    text-decoration: none;
+
+    .card-text {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    &:hover {
+      color: var(--global-theme-color);
+
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card-item {
+    margin-bottom: 10px;
+  }
+
+  .post-meta {
+    color: var(--global-text-color-light);
+    font-size: 0.875rem;
+    margin-bottom: 0;
+    padding-top: 0.5rem;
+  }
+}
+
+
+
+// People
+
+.people {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card {
+    img {
+      width: 50%;
     }
   }
 
