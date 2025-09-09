@@ -42,7 +42,7 @@ pagination:
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
 
-    {%- assign recent_posts = posts | slice: 0, 20 -%}
+    {%- assign recent_posts = posts | slice: 0, 10 -%}
 
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%Y %b %-d" -%}
