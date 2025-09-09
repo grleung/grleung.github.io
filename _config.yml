@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gabrielle R. Leung
+title: The Land, Aerosol, and Cloud Interactions Lab
 email: bee.leung@wisc.edu
-description: Land, Aerosol, and Cloud Interactions <br/>Gabrielle "Bee" Leung
+description: Land, Aerosol, and Cloud Interactions <br/>PI: Gabrielle "Bee" Leung
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://grleung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  grleung
