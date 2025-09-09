@@ -10,18 +10,18 @@ $color-scheme-dark: false !default;
 // Light mode
 // ----------
 
-$lm-brand-color:           #6daa85 !default;
+$lm-brand-color:           #B7381F !default;
 $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
 $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
 
 $lm-site-title-color:      $lm-brand-color-dark !default;
 
-$lm-text-color:            #111111 !default;
-$lm-background-color:      #fdfdfd !default;
-$lm-code-background-color: #eeeeff !default;
+$lm-text-color:            #292728 !default;
+$lm-background-color:      #E0E1E2 !default;
+$lm-code-background-color: #E0E1E2 !default;
 
-$lm-link-base-color:       #517d63 !default;
-$lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+$lm-link-base-color:       #B1C6D7 !default;
+$lm-link-visited-color:    #5C799A !default;
 $lm-link-hover-color:      $lm-text-color !default;
 
 $lm-border-color-01:       $lm-brand-color-light !default;
@@ -105,18 +105,18 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 
 // Dark mode
 // ---------
-$dm-brand-color:           #335441 !default;
+$dm-brand-color:           #B7381F !default;
 $dm-brand-color-light:     lighten($dm-brand-color, 10%) !default;
 $dm-brand-color-dark:      darken($dm-brand-color, 25%) !default;
 
 $dm-site-title-color:      $dm-brand-color-light !default;
 
-$dm-text-color:            #bbbbbb !default;
-$dm-background-color:      #181818 !default;
-$dm-code-background-color: #212121 !default;
+$dm-text-color:            #E0E1E2 !default;
+$dm-background-color:      #292728 !default;
+$dm-code-background-color: #292728 !default;
 
-$dm-link-base-color:       #87aa97 !default;
-$dm-link-visited-color:    $dm-link-base-color !default;
+$dm-link-base-color:       #5C799A !default;
+$dm-link-visited-color:    #B1C6D7 !default;
 $dm-link-hover-color:      $dm-text-color !default;
 
 $dm-border-color-01:       $dm-brand-color-dark !default;
