@@ -6,12 +6,62 @@ layout: home
 list_title: 'news'
 ---
 
+<div style="
+  background-color: #E0E1E2;
+  border: 2px solid #B7381F;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 1.2rem;
+">
+<b>We have openings for 1-2 M.S./Ph.D. students to start in Fall 2026.</b> Stay tuned for details on possible projects and feel free to reach out to Bee via email. For now, you can read up on our research <a href="/research">here</a>.
+</div>
+<div style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+">
+
+  <!-- Text block (smaller) -->
+  <div style="flex: 0 0 35%; padding-right: 10px;">
+    <p>
+      Welcome to the Land, Aerosol, and Cloud Interactions (LACI) Group! We are led by <a href="/people/leung">Dr. Gabrielle "Bee" Leung</a> at the <a href="http://aos.wisc.edu"> University of Wisconsin–Madison</a>.
+      
+      <br/><br/>
+      
+      Human activities impact the atmosphere in many different ways, including changes to <a href='/research' style='color:#9278B6'>aerosol emissions</a>, <a href='/research' style='color:#89A985'>land surface properties</a>, and the <a href='/research' style='color:#CEA55A'>background thermodynamic environment</a>. Our research explores <b><em>where</em> and <em>when</em> those anthropogenic changes are most important for clouds</b>.  
+
+      <br/><br/>
+
+      We use a combination of satellite data, field observations, and cloud-resolving models in our research.
+
+      <br/><br/>
+      Click the icons below to learn more about our recent work!
+    </p>
+  </div>
+
+
+  <!-- Cloud image block (wider and pushed toward center) -->
+  <div style="flex: 0 0 55%; display: flex; justify-content: flex-start;">
+    <img src="/assets/img/clouds.svg" style="width: 100%; height: auto;" alt="Cloud Image">
+  </div>  
+  
+  <!-- Spacer (empty, to push image toward center) -->
+  <div style="flex: 0 0 5%;"></div>
+
+</div>
+
+<!-- Bottom Section: Three Images Side by Side -->
+<div style="display: flex; justify-content: space-between;">
+  <a href="/research" style="display: block; width: 32%;"><img src="/assets/img/aero.svg" style="width: 100%; height: auto;" alt="Aerosol"></a>
+  <a href="/research" style="display: block; width: 32%;"><img src="/assets/img/land.svg"  style="width: 100%; height: auto;" alt="Land"></a>
+  <a href="/research" style="display: block; width: 32%;"><img src="/assets/img/envi.svg"  style="width: 100%; height: auto;" alt="Environment"></a>
+</div>
 
 <br/><br/>
-<b>I am looking to recruit 1-2 Ph.D. students to start in Fall 2026.</b> Stay tuned for details on possible projects and feel free to reach out to me via email. For now, you can read up on my current research <a href="https://grleung.github.io/research/">here</a>.
-<br/><br/>
-Our research explores <em>where</em> and <em>when</em> anthropogenic changes are most important for clouds. Human activities are perturbing the atmosphere in many different ways. We alter the <a href="https://scied.ucar.edu/learning-zone/air-quality/aerosols">aerosol</a> environment by changing emission sources (<em>think: factories, shipping lanes</em>). At the same time, we drive changes in the land surface (<em>think: deforestation, urbanization</em>) that impact how the land exchanges energy and moisture with the atmosphere above it. On top of all of that, anthropogenic CO<sub>2</sub> emissions drive changes to the background environment (<em>think: climate change</em>) that storms develop in!
-<br/><br/>
-We examine how those combined perturbations to the earth system drive changes in cloud and precipitation properties. Our goal is to untangle the complicated interplay of microphysics, dynamics, and radiation processes (many of which are not represented explicitly in our global or regional models) that control convective initiation and development. Every cloud is different, and the balance of processes can be varied even within a single cloud field. Understanding this variability and its ultimate effects is important for water availability, extreme weather, and the climate system, and is essential to <b>understanding how humans are changing the weather and climate on the planet we live on</b>. 
-<br/><br/>
-Our group uses a combination of satellite data, field observations, and cloud-resolving models in our research. With advances in computational power and new observation platforms, we have orders of magnitude more data than ever before. We are very interested in how we can use new techniques like <em>object-based analysis</em> to get from data to a better process-level understanding of cloud physics.
+
+
