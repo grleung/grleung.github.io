@@ -2,11 +2,11 @@
  * Site header
  */
 .site-header {
-  border-top: 30px solid $border-color-03;
+  border-top: 20px solid $border-color-03;
   border-bottom: 5px solid $border-color-01;
   min-height: $spacing-unit * 3;
   line-height: $base-line-height * $base-font-size * 2;
-
+  background-color: $background-color;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -14,6 +14,7 @@
 .site-title {
   @include relative-font-size(2.75);
   font-weight: 300;
+  color: #FFFFFF;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -122,7 +123,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $border-color-01;
+  border-top: 5px solid $border-color-01;
   padding: $spacing-unit 0;
 }
 
