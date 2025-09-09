@@ -1,11 +1,11 @@
 <div class="project-item col">
     <div class="row">
-      <div class="project-item">
       {%- if project.img -%}
+      <div class="image">
         {% include figure.html path=project.img alt="project thumbnail"%}
-      {%- endif -%}
       </div>
-      <div class="project-text">
+      {%- endif -%}
+      <div class="text">
         <div class="project-body">
           <h3 class="project-title text-lowercase">{{ project.title }}</h3>
           <p class="project-text">{{ project.description }}</p>

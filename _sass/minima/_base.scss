@@ -389,7 +389,26 @@ table {
   }
 }
 
+// Projects on main page
+.project-item .row {
+  display: flex;
+  align-items: center;
+  gap: 1rem; // optional spacing between image and text
+}
 
+.project-item .image {
+  width: 30%;
+}
+
+.project-item .image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.project-item .text {
+  width: 70%;
+}
 
 // People
 .people-item .row {
