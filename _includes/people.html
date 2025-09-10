@@ -1,0 +1,63 @@
+<div class="people-item col">
+    <div class="row">
+      {%- if person.img -%}
+      <div class="image">
+        {% include figure.html path=person.img alt="person thumbnail"%}
+      </div>
+      {%- endif -%}
+      <div class="text">
+        <div class="people-body">
+          <!--full page-->
+          <a href="{{person.url | relative.url}}"><h3 class="people-title text-lowercase">{{ person.title }}</h3></a>
+          
+          <!--current title-->
+          <p class="people-text">{{ person.current_position }}</p>
+          
+          <!--education background-->
+          <div class="people-bg">
+            <p class="people-text">{{ person.phd }}</p>
+            <p class="people-text">{{ person.ms }}</p>
+            <p class="people-text">{{ person.bs }}</p> 
+          </div>
+
+        </div>
+        <div class="social-links">
+          <!-- CV Link -->
+          {% if person.cv %}
+            <a href="{{ person.cv }}" class="btn btn-link" target="_blank">CV</a>
+          {% endif %}
+          
+          <!-- GitHub Link -->
+          {% if person.github %}
+            <a href="{{ person.github }}" class="btn btn-link" target="_blank">GitHub</a>
+          {% endif %}
+          
+          <!-- Orcid Link -->
+          {% if person.orcid %}
+            <a href="{{ person.orcid }}" class="btn btn-link" target="_blank">OrcID</a>
+          {% endif %}
+          
+          <!-- Google Scholar Link -->
+          {% if person.google_scholar %}
+            <a href="{{ person.google_scholar }}" class="btn btn-link" target="_blank">Google Scholar</a>
+          {% endif %}
+          </div>
+      </div>
+    </div>
+</div>
+
+<div style="
+  background-color: $lm-background-color;
+  border: 2px solid #B7381F;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(41, 39, 40, 0.1);
+  font-size: 1.2rem;
+">
+So far, it's just me! But <b> I am currently recruiting 1-2 
+  M.S./Ph.D. students to start in Fall 2026.</b> 
+  <br/><br/>
+  Stay tuned for <a href='/openings'>details on possible projects</a> and 
+  feel free to reach out via email. 
+  </div>
