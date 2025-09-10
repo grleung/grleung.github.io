@@ -10,8 +10,8 @@ horizontal: true
 <div class="people">
   {%- assign sorted_people = site.people | sort: "importance" -%}
     <div class="container">
-      {%- for project in sorted_people -%}
-        {% include people.html %}
+      {%- for person in sorted_people -%}
+        {% include people_main.html %}
         <hr>
       {%- endfor %}
     </div>

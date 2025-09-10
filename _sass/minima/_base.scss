@@ -131,6 +131,19 @@ a {
   }
 }
 
+/* Add spacing between the social media buttons */
+.social-links a {
+    margin-right: 1.5rem; /* Add space between the buttons */
+  }
+
+.social-links a:last-child {
+    margin-right: 0; /* Remove space after the last button */
+  }
+
+/* Add hover effect for the CV button */
+.social-links a:hover {
+  text-decoration: underline;
+}
 
 /**
  * Blockquotes
@@ -428,4 +441,16 @@ table {
 
 .people-item .text {
   width: 70%;
+}
+
+.people-bg {
+  display: flex;
+  gap: 0; /* One line of space between elements */
+  flex-wrap: wrap; /* Allows wrapping to next line if necessary */
+  padding-bottom:1rem;
+}
+
+.people-bg p {
+  margin: 0; /* Ensure no extra margin */
+  display: inline-block; /* Make sure the items are inline */
 }
