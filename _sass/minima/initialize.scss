@@ -35,7 +35,7 @@ $on-large:         $on-laptop !default;
   @media screen and (max-width: $device) {
     @content;
   }
-}
+} 
 
 @mixin relative-font-size($ratio) {
   font-size: #{$ratio}rem;

@@ -7,11 +7,63 @@ layout: base
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-  {%- if person.img -%}
-      <div class="image">
-        {% include figure.html path=person.img alt="person thumbnail"%}
+  <div class="content-wrapper" style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  position: relative;
+  ">
+    <div class="post-content" style="flex: 0 0 65%;">
+      
+      <p class="people-text">{{ page.current_position }}</p>
+
+      <!--education background-->
+      {% if page.phd %}
+        <p class="people-text">{{ page.phd }}</p>
+      {% endif %}
+      {% if page.ms %}
+        <p class="people-text">{{ page.ms }}</p>
+      {% endif %}
+      {% if page.bs %}
+        <p class="people-text">{{ page.bs }}</p>
+      {% endif %}
+
+      <div class="social-links">
+        <!-- CV Link -->
+        {% if page.cv %}
+          <a href="{{ page.cv }}" class="btn btn-link" target="_blank">CV</a>
+        {% endif %}
+        
+        <!-- GitHub Link -->
+        {% if page.github %}
+          <a href="{{ page.github }}" class="btn btn-link" target="_blank">GitHub</a>
+        {% endif %}
+        
+        <!-- Orcid Link -->
+        {% if page.orcid %}
+          <a href="{{ page.orcid }}" class="btn btn-link" target="_blank">OrcID</a>
+        {% endif %}
+        
+        <!-- Google Scholar Link -->
+        {% if page.google_scholar %}
+          <a href="{{ page.google_scholar }}" class="btn btn-link" target="_blank">Google Scholar</a>
+        {% endif %}
       </div>
-    {%- endif -%}
+
+    </div>
+
+    {%- if page.img -%}
+    <div class="image" style="flex: 0 0 35%;">
+      <figure sytle="display: block; width:100%; height:auto">
+        <img src="{{ page.img }}" alt="person thumbnail" style="width:95%; height: auto;">
+      </figure>
+    </div>
+    {%- endif -%} 
+
+  </div>
 
   <div class="post-content">
     {{ content }}
