@@ -6,24 +6,26 @@ layout: home
 list_title: 'news'
 ---
 
+
 <div style="
-  background-color: #E0E1E2;
+  background-color: $lm-background-color;
   border: 2px solid #B7381F;
   padding: 20px;
   margin-top: 20px;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(41, 39, 40, 0.1);
   font-size: 1.2rem;
 ">
 <b>We have openings for 1-2 M.S./Ph.D. students to start in Fall 2026.</b> Stay tuned for details on possible projects and feel free to reach out to Bee via email. For now, you can read up on our research <a href="/research">here</a>.
 </div>
-<div style="
+<div class="content-wrapper" style="
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 1000px;
+  max-width: 1200px;
   margin: auto;
   padding: 20px;
+  position: relative;
 ">
 
   <!-- Text block (smaller) -->
@@ -33,11 +35,11 @@ list_title: 'news'
       
       <br/><br/>
       
-      Human activities impact the atmosphere in many different ways, including changes to <a href='/research' style='color:#9278B6'>aerosol emissions</a>, <a href='/research' style='color:#89A985'>land surface properties</a>, and the <a href='/research' style='color:#CEA55A'>background thermodynamic environment</a>. Our research explores <b><em>where</em> and <em>when</em> those anthropogenic changes are most important for clouds</b>.  
+      Human activities impact the atmosphere in many different ways, including changing <a href='/research' style='color:#9278B6'>aerosol emissions</a>, <a href='/research' style='color:#89A985'>land surface properties</a>, and the <a href='/research' style='color:#CEA55A'>background thermodynamic environment</a>. Our research explores <b><em>where</em> and <em>when</em> those anthropogenic changes are most important for clouds and precipitation</b>.  
 
       <br/><br/>
 
-      We use a combination of satellite data, field observations, and cloud-resolving models in our research.
+      We use a combination of satellite data, field observations, and cloud-resolving models in our research. Read more about the tools we use <a href='/tools'>here</a>.
 
       <br/><br/>
       Click the icons below to learn more about our recent work!
@@ -47,7 +49,7 @@ list_title: 'news'
 
   <!-- Cloud image block (wider and pushed toward center) -->
   <div style="flex: 0 0 55%; display: flex; justify-content: flex-start;">
-    <img src="/assets/img/clouds.svg" style="width: 100%; height: auto;" alt="Cloud Image">
+    <a href="/research" style="display: block; width: 100%;"><img src="/assets/img/clouds.svg" style="width: 100%; height: auto;" alt="Cloud Image"></a>
   </div>  
   
   <!-- Spacer (empty, to push image toward center) -->
