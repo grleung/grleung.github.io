@@ -410,12 +410,14 @@ table {
 
 .project-item .image {
   width: 30%;
+  align-items: center;
 }
 
 .project-item .image img {
   width: 100%;
   height: auto;
   display: block;
+  align-items: center;
 }
 
 .project-item .text {

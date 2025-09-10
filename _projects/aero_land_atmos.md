@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Aerosols, Land Cover, and Clouds
-description: Humans are driving changes in the aerosol environment <em>and</em> in land cover. These changes are usually studied separately, but understanding their interactions is important to fully assessing how clouds and precipitation might change in future worlds. My Ph.D. dissertation is funded by a <a href='https://www.atmos.colostate.edu/2022/06/bee-leung-receives-nasa-future-investigators-award/'>NASA FINESST award</a> that looks at land-aerosol-cloud interactions. I'm currently working on a satellite-based study of how deforestation in Southeast Asia drives changes in clouds. One important point is that we find the impact of deforestation is not uniform everywhere––the environmental humidity and aerosol loading can be important modulators of these land-atmosphere interactions.
-importance: 3
+title: Deforestation Impacts on Clouds
+description: Changes to the aerosol environment and to land cover often happen at the same time. In Borneo, for example, replacement of tropical rainforests with palm oil plantations often occurs alongside <a href="https://earthobservatory.nasa.gov/images/145614/smoke-blankets-borneo#:~:text=After%20several%20relatively%20quiet%20fire,pall%20of%20thick%2C%20noxious%20smoke.">massive peatland fires</a>. These changes are usually studied separately, but understanding their interactions is important to get an accurate picture of future changes to clouds and precipitation. In <a href="https://doi.org/10.1029/2023GL107678">this GRL paper</a>, we used two decades of satellite observations to estimate the impact of deforestation in Southeast Asia on clouds. One important point is that we find the impact of deforestation is not uniform everywhere––environmental humidity and aerosol loading can be important modulators of land-atmosphere interactions. Read more in <a href="https://eos.org/articles/shallower-clouds-hang-more-often-over-lost-forests">this Eos feature</a>! We're currently working on understanding how deforestation impacts vary across the diurnal cycle.
+importance: 1
 img: assets/img/deforestation.png
-short_img: assets/img/deforestation.png
 ---

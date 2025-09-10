@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: projects
 permalink: /research/
 horizontal: true
 ---
@@ -11,7 +11,7 @@ horizontal: true
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
     <div class="container">
       {%- for project in sorted_projects -%}
-        {% include projects_main.html %}
+        {% include projects.html %}
         <hr>
       {%- endfor %}
     </div>

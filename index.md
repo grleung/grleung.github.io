@@ -42,7 +42,7 @@ list_title: 'news'
       We use a combination of satellite data, field observations, and cloud-resolving models in our research. Read more about the tools we use <a href='/tools'>here</a>.
 
       <br/><br/>
-      Click the icons below to learn more about our recent work!
+      Learn more about our current projects <a href='/research'> here</a> or click the icons below to learn more about our areas of interest!
     </p>
   </div>
 
