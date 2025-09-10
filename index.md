@@ -16,7 +16,7 @@ list_title: 'news'
   box-shadow: 0 4px 8px rgba(41, 39, 40, 0.1);
   font-size: 1.2rem;
 ">
-<b>We have openings for 1-2 M.S./Ph.D. students to start in Fall 2026.</b> Stay tuned for details on possible projects and feel free to reach out to Bee via email. For now, you can read up on our research <a href="/research">here</a>.
+<b>We have openings for 1-2 M.S./Ph.D. students to start in Fall 2026.</b> Read more details <a href="/openings">here</a>, and feel free to reach out to Bee via email to discuss potential research projects and the application process.
 </div>
 <div class="content-wrapper" style="
   display: flex;
