@@ -3,13 +3,13 @@
  */
 .site-header {
   background-color: $site-title-color;
-  height: 100px;
   border-top: 20px solid $border-color-03;
   border-bottom: 0px solid $border-color-01;
-  min-height: $spacing-unit * 3;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  margin-bottom: 0;
   line-height: $base-line-height * $base-font-size * 2;
   position: relative;
-  padding-bottom:15px;
 }
 
 .site-title {
@@ -20,10 +20,6 @@
   float: left;
   color: $background-color;
 
-  @include media-query($on-palm) {
-    padding-right: 45px;
-  }
-
   &,
   &:visited {
     color: $background-color;
@@ -31,18 +27,20 @@
 }
 
 .site-subtitle{
-  color: $background-color
+  color: $background-color;
+  background-color: $site-title-color;
+  margin-bottom: -($base-line-height * $base-font-size * 2);
 }
 
 .site-nav {
   position: absolute;
   right: $spacing-unit * .5;
-  background-color: $background-color;
+  background-color: $site-title-color;
   border: 5px solid $border-color-01;
   border-radius: 2px;
   text-align: right;
-  color: $site-title-color;
-  padding-bottom:40px;
+  color: $background-color;
+  padding-bottom:0px;
 
   .nav-trigger { display: none; }
 
@@ -55,7 +53,7 @@
     text-align: center;
 
     > svg path {
-      fill: $border-color-03;
+      fill: $background-color;
     }
   }
 
@@ -74,14 +72,14 @@
 
   input:checked ~ .trigger {
     display: block;
-    padding-bottom: 5px;
+    padding-bottom: 0px;
   }
 
   .page-link {
-    color: $site-title-color;;
+    color: $background-color; 
     line-height: $base-line-height;
     display: block;
-    padding: 5px 10px;
+    padding: 5px 0px;
     margin-left: 20px;
 
     &:not(:last-child) { margin-right: 0; }
@@ -109,6 +107,33 @@
   }
 }
 
+@include media-query($on-palm) {
+  .site-header {
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .site-title {
+    @include relative-font-size(3); // slightly larger on mobile if needed
+    float: none;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .site-subtitle {
+    text-align: center;
+    display: block;
+    margin-top: -10px;
+  }
+
+  .site-nav {
+    position: static;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+}
 
 
 /**
@@ -323,13 +348,13 @@
   }
 
   .text {
-    position: absolute;
+    position: relative;
     top: 20px;
     left: 50%;
     transform: translateX(-50%);
-    width: 90%;
+    width: 80%;
     padding: 10px;
-    background: rgba(255, 255, 255, 0.7);
+    background: $background-color;
     z-index: 10;
   }
 
