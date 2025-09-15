@@ -18,6 +18,7 @@ list_title: 'news'
 ">
 <b>We have openings for 1-2 M.S./Ph.D. students to start in Fall 2026.</b> Read more details <a href="/openings">here</a>, and feel free to reach out to Bee via email to discuss potential research projects and the application process.
 </div>
+
 <div class="content-wrapper" style="
   display: flex;
   align-items: center;
