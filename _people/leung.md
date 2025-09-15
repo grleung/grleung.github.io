@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Gabrielle "Bee" Leung (PI)
+pronouns: she/her
 current_position: |
   Anna Julia Cooper Fellow  <br/>
   Incoming Assistant Professor (Fall 2026)  <br/>
