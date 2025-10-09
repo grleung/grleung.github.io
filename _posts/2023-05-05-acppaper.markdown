@@ -1,6 +1,0 @@
----
-layout: post
-title:  "A <a href='https://doi.org/10.5194/acp-23-5263-2023'>paper</a> by myself and coauthors was just publised in Atmospheric Chemistry and Physics. Using a suite of 16 simulations, we explore how different aerosol types and loadings impact cloud development. We then discuss how these changes to the cloud field influence convective transport and aerosol removal processes."
-date:   2023-05-10
-categories: jekyll update
----

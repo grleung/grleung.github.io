@@ -1,6 +1,0 @@
----
-layout: post
-title:  "You can read our latest <a href='https://doi.org/10.22541/essoar.170224476.62466891/v1'>preprint</a> in the ESS Open Archive. "
-date:   2023-12-08
-categories: jekyll update
----

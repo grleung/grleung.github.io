@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Our team just wrapped up on BACS-II. It was a very successful (and unusually rainy) summer for cold pool sampling!"
-date:   2023-06-23
-categories: jekyll update
----

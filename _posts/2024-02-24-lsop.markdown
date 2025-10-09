@@ -1,6 +1,0 @@
----
-layout: post
-title:  "I volunteered at <a href='https://www.lsop.colostate.edu/'>CSU Little Shop of Physics</a> today. It was so much fun talking to K-12 students about the physics of the atmosphere!"
-date:   2024-2-24
-categories: jekyll update
----

@@ -1,6 +1,0 @@
----
-layout: post
-title:  "I've been in Pasadena for the past two days attending the last <a href='https://espo.nasa.gov/camp2ex/content/CAMP2Ex'>CAMP2Ex</a> science team meeting! I gave an overarching talk summarizing the highlights of the work our group at CSU has been up to for the past five years since the field campaign."
-date:   2024-2-29
-categories: jekyll update
----
