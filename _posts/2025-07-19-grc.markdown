@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I'm in Lewiston, Maine this week for the Climate and Radiation Gordon Research Conference. I'll be giving a talk on varied cloud responses to deforestation across the diurnal cycle, and a poster on how grid spacing impacts the relationship between environmental moisture and convective mass flux." 
+title:  "Bee is in Lewiston, Maine this week for the Climate and Radiation Gordon Research Conference. She will be giving a talk on varied cloud responses to deforestation across the diurnal cycle, and a poster on how grid spacing impacts the relationship between environmental moisture and convective mass flux." 
 date:   2025-07-19
 categories: jekyll update
 ---

@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "I was in San Francisco for AGU! I gave a poster on the impacts of deforestation on clouds in Southeast Asia, and delivered a lightning talk on aerosol impacts on cold pools on behalf of Sue."
+date:   2023-12-11
+categories: jekyll update
+---

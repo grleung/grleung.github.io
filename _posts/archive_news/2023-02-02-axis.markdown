@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "I helped out with an outreach event (en español!) at AXIS International Academy. We spoke to kindergarteners about weather, climate, and how we use drone to make measurements of the atmosphere!"
+date:   2023-02-02
+categories: jekyll update
+---

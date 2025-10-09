@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "I attended the 103rd AMS Annual Meeting in Denver, CO. I gave a talk on the importance of representing heterogeneity in aerosol spatial distributions when considering aerosol-cloud interactions."
+date:   2023-01-08
+categories: jekyll update
+---
