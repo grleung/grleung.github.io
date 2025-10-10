@@ -9,7 +9,7 @@ horizontal: true
 <em>This page is currently under construction.</em>
 
 <h1>Graduate Students</h1>
-I am looking to recruit 1-2 M.S./Ph.D. students to join the new Land, Aerosol, and Cloud Interactions group at the University of Wisconsin–Madison starting Fall 2026. Applicants may apply through either [the M.S. or research Ph.D. program at the Department of Atmospheric and Oceanic Sciences (AOS).](https://aos.wisc.edu/academics/graduate/) Tuition and stipend support will be provided.
+I am looking to recruit 1-2 M.S./Ph.D. students to join the new Land, Aerosol, and Cloud Interactions group at the University of Wisconsin–Madison starting Fall 2026. Applicants may apply through either [the research M.S. or Ph.D. program at the Department of Atmospheric and Oceanic Sciences (AOS).](https://aos.wisc.edu/academics/graduate/) Tuition and stipend support will be provided.
 
 Our research focuses on how human-driven changes to land cover and aerosol emissions impact clouds, storms, precipitation, and Earth’s radiation budget. To better understand the physical processes driving changes in clouds, we use a combination of high-resolution numerical models, satellite data, and field observations. 
 
