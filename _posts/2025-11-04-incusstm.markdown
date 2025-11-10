@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "<a href='https://grleung.github.io/people/leung/'>Bee</a> is in Fort Collins, CO this week for the <a href='https://incus.colostate.edu'>NASA INCUS</a> science team meeting. She will give a science presentation on the CMF-moisture pick-up in the INCUS LES dataset and what these results mean for representing tropical convection." 
+date:   2025-11-04
+categories: jekyll update
+---
