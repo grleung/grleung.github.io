@@ -15,7 +15,7 @@ img: "/assets/img/leung.jpg"
 github: http://github.com/grleung
 orcid: https://orcid.org/0000-0003-2216-6207
 google_scholar: https://scholar.google.com/citations?hl=en&user=nyKQMuUAAAAJ
-cv: "/assets/docs/202508_Leung_CV.pdf"
+cv: "/assets/docs/202511_Leung_CV.pdf"
 ---
 I'm currently an <a href="https://facstaff.provost.wisc.edu/faculty-hiring-and-retention-resources/#anna-julia-cooper-postdoctoral-fellowship" target="_blank">Anna Julia Cooper</a> fellow at the <a href="https://www.aos.wisc.edu" target="_blank">Department of Atmospheric and Oceanic Sciences (AOS), University of Wisconsin-Madison</a>. I will be starting as an Assistant Professor at AOS in Fall 2026.  
 
