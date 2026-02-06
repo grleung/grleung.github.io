@@ -8,9 +8,9 @@ horizontal: true
 <hr>
 
 ## Graduate Students
-We're currently interviewing prospective students for Fall 2026 in our [research graduate program at Department of Atmospheric and Oceanic Sciences (AOS)](https://aos.wisc.edu/academics/graduate/).
+We're currently interviewing prospective students for Fall 2026 in our [research graduate program](https://aos.wisc.edu/academics/graduate/) at the Department of Atmospheric and Oceanic Sciences (AOS).
 
-Please check back in ~October 2026 to see about GRA positions for Fall 2027. 
+Please check back in ~October 2026 to see about graduate positions for Fall 2027. 
 
 ## Undergraduate Students
 ### Students At UW–Madison
