@@ -6,7 +6,6 @@ layout: home
 list_title: 'news'
 ---
 
-
 <div style="
   background-color: $lm-background-color;
   border: 2px solid #B7381F;
@@ -16,7 +15,7 @@ list_title: 'news'
   box-shadow: 0 4px 8px rgba(41, 39, 40, 0.1);
   font-size: 1.2rem;
 ">
-<b>We have openings for 1-2 M.S./Ph.D. students to start in Fall 2026.</b> Read more details <a href="/openings">here</a>, and feel free to reach out to Bee via email to discuss potential research projects and the application process.
+<b>Our group is excited to participate in the <a href="https://sites.google.com/wisc.edu/storm/home">STORM REU</a> this summer! We're looking forward to working with an undergraduate researcher on boundary layer clouds and land–atmosphere interactions. Many of our other colleagues across AOS, CCR, CIMSS, and SSEC also have exciting projects, which you can browse through <a href="https://sites.google.com/wisc.edu/storm/research-projects?authuser=0">here</a>. </b> The deadline to <a href="https://sites.google.com/wisc.edu/storm/apply-here">apply</a> is **18 February 2026**. 
 </div>
 
 <div class="content-wrapper" style="

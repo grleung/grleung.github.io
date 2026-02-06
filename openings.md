@@ -6,25 +6,20 @@ horizontal: true
 ---
 
 <hr>
-<em>This page is currently under construction.</em>
 
-<h1>Graduate Students</h1>
-I am looking to recruit 1-2 M.S./Ph.D. students to join the new Land, Aerosol, and Cloud Interactions group at the University of Wisconsin–Madison starting Fall 2026. Applicants may apply through either [the research M.S. or Ph.D. program at the Department of Atmospheric and Oceanic Sciences (AOS).](https://aos.wisc.edu/academics/graduate/) Tuition and stipend support will be provided.
+## Graduate Students
+We're currently interviewing prospective students for Fall 2026 in our [research graduate program at Department of Atmospheric and Oceanic Sciences (AOS)](https://aos.wisc.edu/academics/graduate/).
 
-Our research focuses on how human-driven changes to land cover and aerosol emissions impact clouds, storms, precipitation, and Earth’s radiation budget. To better understand the physical processes driving changes in clouds, we use a combination of high-resolution numerical models, satellite data, and field observations. 
+Please check back in ~October 2026 to see about GRA positions for Fall 2027. 
 
-Potential student research topics may include: 
+## Undergraduate Students
+### Students At UW–Madison
+There are [many opportunities](https://teachlearn.wisc.edu/undergraduate-research/) for UW undergrads to get involved in research at UW–Madison! I am happy to work with undergraduate students to identify potential research projects. Interested students should email Bee (bee.leung@wisc.edu) with the subject heading "**Undergraduate Research Opportunities**". 
 
-- the diurnal cycle of convection over land
-- aerosol modulation of land-atmosphere interactions
-- other applications of land-aerosol-cloud interactions on real-world systems (e.g., solar energy generation, deforestation, urbanization, agricultural and/or land management practices)
+### Students Outside UW–Madison
+Our group will host an undergraduate researcher on **boundary layer convection and land–atmosphere interactions** in Summer 2026 as part of AOS's [STORM REU](https://sites.google.com/wisc.edu/storm/home). STORM REU is a 10-week program from 26 May to 1 August 2026. 
 
-Our ideal candidate is curious about cloud and storm physics and passionate about using science to inform future systems. We are looking for candidates with strong analysis, programming, and communication skills. We welcome students from all backgrounds, including (but not limited to) atmospheric science, meteorology, climate science, physics, mathematics, computer science, or environmental science. 
+You can find application details [here](https://sites.google.com/wisc.edu/storm/apply-here). The application deadline is **18 February 2026**. 
 
-Interested applicants may email Bee (bee.leung@wisc.edu) with the subject heading “**Prospective Graduate Student Application**”. Please include a copy of your CV and brief description of research interests and background. Formal applications should be submitted via the [AOS admissions process](https://aos.wisc.edu/academics/graduate/admission/). The priority deadline for applications is 1 January 2026, but interested applicants are encouraged to contact Bee before submitting their formal applications.
-
-<!--<h1>Undergraduate Students</h1>
-There are <a href="https://teachlearn.wisc.edu/undergraduate-research/">many opportunities</a> for undergrads to get involved in research at UW–Madison! I am happy to work with undergraduate students to identify potential research projects.
-
-<h1>Postdocs</h1>
-I do not currently have funding for a postdoc, but am happy to meet with prospective applicants who want to apply for fellowships. Reach out to me via email (bee.leung@wisc.edu)!-->
+## Postdocs
+We do not currently have funding for a postdoc. However, Bee is always happy to meet with prospective applicants who want to apply for external fellowships. Email Bee (bee.leung@wisc.edu) with the subject heading "**Prospective Postdoc Fellowship**".
