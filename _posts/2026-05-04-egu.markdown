@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Bee is in Vienna, Austria for the European Geosciences Union (EGU) Annual Meeting. Catch her <a href='https://meetingorganizer.copernicus.org/EGU26/EGU26-14746.html'>solicited (invited) presentation</a> on Wednesday afternoon!"
+date:   2026-05-04
+categories: jekyll update
+---

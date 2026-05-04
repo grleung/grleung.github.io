@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Bee visited the <a href='https://www.ceh.ac.uk'>UK Centre for Ecology and Hydrology</a> and gave a seminar on mesoscale land–atmosphere interactions."
+date:   2026-04-14
+categories: jekyll update
+---
