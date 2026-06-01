@@ -14,7 +14,7 @@ img: "/assets/img/leung.jpg"
 github: http://github.com/grleung
 orcid: https://orcid.org/0000-0003-2216-6207
 google_scholar: https://scholar.google.com/citations?hl=en&user=nyKQMuUAAAAJ
-cv: "/assets/docs/202511_Leung_CV.pdf"
+cv: "/assets/docs/202606_Leung_CV.pdf"
 ---
 I'm an Assistant Professor at the <a href="https://www.aos.wisc.edu" target="_blank">Department of Atmospheric and Oceanic Sciences (AOS), University of Wisconsin-Madison</a>.
 
