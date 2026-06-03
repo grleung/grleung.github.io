@@ -1,6 +1,0 @@
----
-layout: post
-title:  "The annual INCUS science team meeting is this week. I'm going to talk about tracking cloud objects in our high-resolution INCUS simulations and comparing how convective mass flux is resolved at kilometer and sub-kilometer grid spacings." 
-date:   2024-11-13
-categories: jekyll update
----

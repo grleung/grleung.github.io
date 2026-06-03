@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Our work on deforestation in Southeast Asia is <a href='https://eos.org/articles/shallower-clouds-hang-more-often-over-lost-forests'>featured</a> in Eos magazine."
-date:   2023-12-13
-categories: jekyll update
----

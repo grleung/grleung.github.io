@@ -1,6 +1,0 @@
----
-layout: post
-title:  "I'm in Jeju, South Korea this week to attend the International Conference on Clouds and Precipitation. I'll be presenting some new work using object-tracking to characterize convective mass flux in the INCUS large eddy simulation dataset." 
-date:   2024-7-15
-categories: jekyll update
----

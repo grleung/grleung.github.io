@@ -1,6 +1,0 @@
----
-layout: post
-title:  "I'm at AGU this week, presenting my work on how deforestation impacts different cloud modes in the tropics. I'm also speaking at the NASA Early Career Program Townhall on Thursday night. Looking forward to seeing new research and catching up with old friends!" 
-date:   2024-12-9
-categories: jekyll update
----

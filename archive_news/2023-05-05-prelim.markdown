@@ -1,6 +1,0 @@
----
-layout: post
-title:  "I passed my preliminary exam and am now officially a Ph.D. candidate!"
-date:   2023-05-05
-categories: jekyll update
----
