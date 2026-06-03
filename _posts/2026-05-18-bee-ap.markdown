@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Bee officially begins her appointment as assistant professor in the Department of Atmospheric and Oceanic Sciences at the University of Wisconsin–Madison."
+date:   2026-05-18
+categories: jekyll update
+---
