@@ -4,7 +4,10 @@ layout: base
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1> <p>({{page.pronouns}})</p>
+    <h1 class="post-title">{{ page.title }}</h1> 
+          {% if page.pronouns %}
+          <p>({{page.pronouns}})</p>
+          {% endif %}
   </header>
 
   <div class="content-wrapper" style="
@@ -69,9 +72,10 @@ layout: base
     {{ content }}
   </div>
 
+  {% if page.bib_author_key %}
   <h2>First-Author Publications</h2>
   <div markdown="0" style="padding-left:2rem;width:95%; display:block;">
-  {% include bibere/highlight.html mainAuthor="leung" filterAuthor='leung'%}
+  {% include bibere/highlight.html mainAuthor=page.bib_author_key filterAuthor=page.bib_author_key%}
   </div>
-
+  {% endif %}
 </article>
